@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="refresh" content="0;url=mailto:help@aleshafond.ru?subject=Сообщение&body=Введите ваши данные: ФОНД, Телефон">
+    <title>Перенаправление на почту</title>
+</head>
+<body>
+    <p>Открывается почта...</p>
+</body>
+</html>
